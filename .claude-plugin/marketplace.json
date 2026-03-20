@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "dylantmoore-plugins",
+  "name": "dtm-claude-plugins",
   "description": "Dylan Moore's Claude Code plugin collection",
   "owner": {
     "name": "Dylan Moore"
