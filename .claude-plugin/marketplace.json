@@ -39,6 +39,16 @@
         "url": "https://github.com/dylantmoore/stata-skill.git"
       },
       "homepage": "https://github.com/dylantmoore/stata-skill"
+    },
+    {
+      "name": "overleaf-cli",
+      "description": "Interact with Overleaf LaTeX projects — read, edit, compile, search, and manage files directly from Claude Code. Includes interactive browser login, real-time file editing via Socket.IO, PDF compilation, project search, suggested edits with diffs, and watch mode.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/dylantmoore/overleaf-cli.git"
+      },
+      "homepage": "https://github.com/dylantmoore/overleaf-cli"
     }
   ]
 }
